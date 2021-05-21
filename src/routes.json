@@ -1,0 +1,26 @@
+{
+  "key": {
+    "from": "A",
+    "to": "B",
+    "date": "date",
+    "seats": "seats"
+  },
+  "1588da6c69331f20b03a53e987cbc03f": {
+    "from": "Odense",
+    "to": "Copenhagen",
+    "date": "2018-10-01",
+    "seats": "4"
+  },
+  "71370a0f4084f16b2de4c2e0f9d5b78c": {
+    "from": "Copenhagen",
+    "to": "Aarhus",
+    "date": "2018-10-01",
+    "seats": "2"
+  },
+  "a249a3ed30f48e5c99aaeae81fc29827": {
+    "from": "Odense",
+    "to": "Copenhagen",
+    "date": "2018-10-02",
+    "seats": "1"
+  }
+}
